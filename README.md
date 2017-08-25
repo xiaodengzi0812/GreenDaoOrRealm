@@ -23,5 +23,8 @@ GreenDao与Realm实战分析
   ![image](https://github.com/xiaodengzi0812/GreenDaoOrRealm/blob/master/clipboard.png)
 
 5、测试截图
+
     下面是1000条数据的测试截图
+
+  ![image](https://github.com/xiaodengzi0812/GreenDaoOrRealm/blob/master/device-demo.png)
   
