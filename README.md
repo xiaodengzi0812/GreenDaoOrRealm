@@ -17,7 +17,8 @@ GreenDao与Realm实战分析
 
 4、增删改查：
 
-    分别对GreenDao和Realm进行1、10、100、1000、10000次的增删改查操作，取其平均值记录如下图所示
+    分别用GreenDao和Realm进行1、10、100、1000、10000次的增删改查操作，取其平均值记录如下图所示
+    记录单为是毫秒
 
   ![image](https://github.com/xiaodengzi0812/GreenDaoOrRealm/blob/master/clipboard.png)
   
