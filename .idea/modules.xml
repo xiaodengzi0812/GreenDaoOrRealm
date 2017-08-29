@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GreenDaoOrRealm.iml" filepath="$PROJECT_DIR$/GreenDaoOrRealm.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydaolib/mydaolib.iml" filepath="$PROJECT_DIR$/mydaolib/mydaolib.iml" />
     </modules>
   </component>
 </project>
